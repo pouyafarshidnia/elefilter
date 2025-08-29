@@ -8,8 +8,8 @@ For Laravel Applications</h3>
 <br>
 <br>
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/your-namespace/elefilter.svg?style=flat-square)](https://packagist.org/packages/your-namespace/elefilter)
-[![Total Downloads](https://img.shields.io/packagist/dt/your-namespace/elefilter.svg?style=flat-square)](https://packagist.org/packages/your-namespace/elefilter)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/elefilter/elefilter.svg?style=flat-square)](https://packagist.org/packages/elefilter/elefilter)
+[![Total Downloads](https://img.shields.io/packagist/dt/elefilter/elefilter.svg?style=flat-square)](https://packagist.org/packages/elefilter/elefilter)
 
 
 **Elefilter** is a Laravel package that helps you easily create and organize **filter classes** for your Eloquent models.  
