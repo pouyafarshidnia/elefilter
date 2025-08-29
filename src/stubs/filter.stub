@@ -1,0 +1,15 @@
+<?php
+
+namespace {{ namespace }};
+
+use EleFilter\Database\ModelFilter;
+
+class {{ class }} extends ModelFilter
+{
+   protected string $column = "{{ column }}";
+
+   public function apply(mixed $param): void
+   {
+      // Filter logic here : sample ->  $this->equal($param);
+   }
+}
