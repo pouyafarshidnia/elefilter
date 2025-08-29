@@ -33,6 +33,11 @@ Install the package via Composer:
 ```bash
 composer require elefilter/elefilter
 ```
+If you get stability error, use this command instead.(package is in beta version)
+
+```bash
+ composer require elefilter/elefilter:"1.0.0-beta"
+```
 
 ---
 
